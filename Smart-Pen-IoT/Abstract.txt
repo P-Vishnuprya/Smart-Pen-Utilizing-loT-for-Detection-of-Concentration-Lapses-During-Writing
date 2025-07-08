@@ -1,0 +1,11 @@
+Abstract—
+The Internet of Things (IoT) has reshaped vital sectors like education and productivity by enabling real-time data collecting and analysis. 
+This project describes a smart pen meant to detect attention drifts and concentration lapses during writing jobs, which uses IoT technologies to improve real-time focus detection.
+The smart pen is fitted with a variety of sensors, including an accelerometer, gyroscope, and pressure sensor, which monitor the user's writing behaviors and style while delivering statistics on concentration levels.
+This data is evaluated using sophisticated algorithms to detect instances of cognitive stray.
+The smart pen contains a companion app called the Blynk app that employs wireless connectivity to perform graphical analysis of writing patterns, alerting users when inattentive and providing real-time feedback to help them restore focus. 
+Initially, the smart pen can effectively help users regain lost concentration, resulting in increased productivity and discipline in learning contexts.
+This cognitive alert pen improves concentration, creativity, and productivity in educational environments. 
+Such an attention drift detection tool not only gives rapid feedback, but it also evaluates performance, promoting a more disciplined and focused learning environment.
+
+Keywords— IoT, sensors, focus detection, alert pen, graphical analysis, attention drift, Blynk app.
